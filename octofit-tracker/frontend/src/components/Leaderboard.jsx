@@ -1,1 +1,1 @@
-const path = "/api/leaderboard/";
+const path = "-8000.app.github.dev/api/leaderboard";

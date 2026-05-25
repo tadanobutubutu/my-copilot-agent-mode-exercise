@@ -1,1 +1,1 @@
-const path = "/api/workouts/";
+const path = "-8000.app.github.dev/api/workouts";
