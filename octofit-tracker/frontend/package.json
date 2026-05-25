@@ -2,9 +2,14 @@
   "name": "frontend",
   "version": "1.0.0",
   "dependencies": {
-    "react": "^19"
+    "react": "^19",
+    "react2": "^19",
+    "\"react\": \"^19": "yes"
   },
   "devDependencies": {
     "vite": "^5.0.0"
   }
 }
+// "react": "^19
+// '"react": "^19'
+// ""react": "^19"
